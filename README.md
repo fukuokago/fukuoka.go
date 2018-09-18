@@ -1,6 +1,6 @@
-Fukuoka.go
+Fukuoka.go Resources
 ==
 
-Resources of Fukuoka.go. イベントなどで写真とったものをpushしてくれると嬉しいです。
+イベントなどで写真とったものをpushしてくれると嬉しいです。
 
 - [Making logos](https://github.com/fukuokago/event/issues/4)
